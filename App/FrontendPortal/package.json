@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@azure/msal-react": "^1.5.10",
-    "@azure/msal-browser": "^2.38.2",
+    "@azure/msal-browser": "^2.38.4",
     "@chakra-ui/icons": "^2.1.1",
     "@chakra-ui/react": "^2.8.2",
     "@emotion/react": "^11.11.1",
